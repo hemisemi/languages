@@ -1,0 +1,6 @@
+[submodule "languages-parser"]
+	path = parser
+	url = git@github.com:hemisemi/languages-parser.git
+[submodule "languages-grammar"]
+	path = grammar
+	url = git@github.com:hemisemi/languages-grammar.git
