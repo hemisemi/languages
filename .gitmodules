@@ -1,0 +1,6 @@
+[submodule "grammar"]
+	path = grammar
+	url = ./grammar
+[submodule "parser"]
+	path = parser
+	url = ./parser
